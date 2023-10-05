@@ -1,0 +1,3 @@
+C:/3522/course-sample-code-erictatchell/Week1/AddIntegersError/cmake-build-debug/CMakeFiles/AddIntegersError.dir
+C:/3522/course-sample-code-erictatchell/Week1/AddIntegersError/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/3522/course-sample-code-erictatchell/Week1/AddIntegersError/cmake-build-debug/CMakeFiles/rebuild_cache.dir

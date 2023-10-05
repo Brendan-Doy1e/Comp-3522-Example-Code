@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/FriendClass/Spy.cpp
+Spy.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/FriendClass/Spy.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/FriendClass/Spy.hpp
+iostream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/FriendClass/main.cpp
+iostream
+-
+Spy.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/FriendClass/Spy.hpp
+
